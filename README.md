@@ -1,5 +1,7 @@
 # Astro Partykit Minimal Starter Kit
 
+test
+
 This is a minimal starter kit for [Astro](https://astro.build) and [Partykit](https://partykit.io) using [React](https://reactjs.org/).
 
 ## 🧞 Commands
