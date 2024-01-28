@@ -14,10 +14,10 @@
     "@astrojs/check": "^0.3.4",
     "@astrojs/netlify": "^4.0.1",
     "@astrojs/react": "^3.0.8",
-    "@astrojs/tailwind": "^5.0.4",
-    "@types/react": "^18.2.45",
+    "@astrojs/tailwind": "^5.1.0",
+    "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
-    "astro": "^4.0.7",
+    "astro": "^4.2.4",
     "partysocket": "0.0.18",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.15.0",
-    "@typescript-eslint/parser": "^6.15.0",
+    "@typescript-eslint/parser": "^6.19.0",
     "concurrently": "^8.2.2",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
@@ -36,7 +36,7 @@
     "lint-staged": "^15.2.0",
     "partykit": "0.0.53",
     "prettier": "3.1.1",
-    "prettier-plugin-astro": "^0.12.2",
+    "prettier-plugin-astro": "^0.13.0",
     "typescript": "^5.3.3"
   },
   "lint-staged": {
